@@ -431,7 +431,7 @@
     },
     "validation": {
       "adminKeyMustBe256BitPsk": "Admin Key is required to be a 256 bit pre-shared key (PSK)",
-      "adminKeyRequiredWhenManaged": "At least one admin key is requred if the node is managed.",
+      "adminKeyRequiredWhenManaged": "At least one admin key is required if the node is managed.",
       "enterValid256BitPsk": "Please enter a valid 256 bit PSK",
       "invalidAdminKeyFormat": "Invalid Admin Key format",
       "invalidPrivateKeyFormat": "Invalid Private Key format",
